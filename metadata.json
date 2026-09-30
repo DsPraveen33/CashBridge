@@ -1,0 +1,10 @@
+{
+  "name": "CashBridge - Hyperlocal Cash ↔ UPI Exchange",
+  "description": "Hyperlocal peer-to-peer cash and UPI exchange platform. Safe public meeting points, verified trust scores, and real-time community coordination.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
